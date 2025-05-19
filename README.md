@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 Greetings,
 
-I'm Archit Shukla, a dedicated third-year Computer Engineering student on a mission for technological excellence. My academic journey has explored diverse facets of computer engineering, refining my skills and knowledge.
+I'm Archit Shukla, a dedicated Computer Engineering Graduate on a mission for technological excellence. My academic journey has explored diverse facets of computer engineering, refining my skills and knowledge.
 
 With a fervor for innovation, I'm dedicated to exploring fresh solutions and staying abreast of trends. From unraveling coding complexities to envisioning innovative tech, the journey of innovation drives me.
 
