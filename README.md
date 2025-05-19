@@ -38,7 +38,7 @@ With a fervor for innovation, I'm dedicated to exploring fresh solutions and sta
 
 The world of programming and software intricacies has unveiled technology's transformative potential. Advocating limitless possibilities, I embrace challenges to expand my horizons.
 
-🎓 Entering my third year, 💻 I'm 🔎 keen on development, 🛠️ software engineering, and 🕸️ web development. 🔥 My passion aligns with skills to contribute meaningfully. 💡
+🎓 Entering into the real-world industry, 💻 I'm 🔎 keen on development, 🛠️ software engineering, and 🕸️ web development. 🔥 My passion aligns with skills to contribute meaningfully. 💡
 
 🔍 I seek opportunities that 🔥 resonate with my interests, aiming to 👨‍💻 actively and effectively contribute to these fields with my 🛠️ technical proficiency and 💯 unwavering zeal.
 
