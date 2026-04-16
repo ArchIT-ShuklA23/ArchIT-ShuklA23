@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi there 👋, I'm Archit 🧑‍💻</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate AI/ML & Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archit-shukla23&label=Profile%20views&color=0e75b6&style=flat" alt="archit-shukla23" /> </p>
 
